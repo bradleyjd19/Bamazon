@@ -104,11 +104,11 @@ function beginOrder(res) {
                     bamazon();
                   }
                 })
-              });
+              })
             }
           }
         })
       }
     }
   })
-}
+};
