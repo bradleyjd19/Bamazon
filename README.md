@@ -25,13 +25,13 @@ npm i inquirer
 ```
 Command line interface for prompting user input
 
-**Chalk**
+**chalk**
 ```
 npm i chalk
 ```
 Decorating command line
 
-**CLI-Table**
+**cli-table**
 ```
 npm i cli-table2
 ```
@@ -39,3 +39,30 @@ Creating decorative table for displaying products
 
 ## Demo
 Screenshots demonstrating functionality
+
+**Product Table**
+![Product Table Image](images/product-table.png)
+
+**Order ID and Quantity Prompt**
+![Order ID and Quantity Prompt Image](images/quantity-prompt.png)
+
+**Successful Order**
+![Order Success Image](images/order-success.png)
+
+**Low Stock**
+![Low Stock Image](images/low-stock.png)
+
+**No Stock**
+![No Stock Image](images/no-stock.png)
+
+**Invalid Input**
+![Invalid Inpupt Image](images/invalid-input.png)
+
+**End Order**
+![End Order Image](images/order-end.png)
+
+**Database Preorder**
+![Database Preorder Image](images/database-preorder.png)
+
+**Database Postorder**
+![Database Postorder Image](images/database-postorder.png)
