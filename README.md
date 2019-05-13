@@ -40,25 +40,25 @@ Creating decorative table for displaying products
 ## Demo
 Screenshots demonstrating functionality
 
-**Product Table**
+**Product Display Table**
 ![Product Table Image](images/product-table.png)
 
 **Order ID and Quantity Prompt**
 ![Order ID and Quantity Prompt Image](images/quantity-prompt.png)
 
-**Successful Order**
+**Successful Order Output**
 ![Order Success Image](images/order-success.png)
 
-**Low Stock**
+**Low Stock Output**
 ![Low Stock Image](images/low-stock.png)
 
-**No Stock**
+**Depleted Stock Output**
 ![No Stock Image](images/no-stock.png)
 
-**Invalid Input**
+**Invalid Input Message**
 ![Invalid Inpupt Image](images/invalid-input.png)
 
-**End Order**
+**End Order Output**
 ![End Order Image](images/order-end.png)
 
 **Database Preorder**
